@@ -4787,9 +4787,9 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="UNCLASSIFIED",group-title="LOKAL"BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",RTV
-https://app-etslive-2.vidio.com/live/geo_1561/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjE1NjEsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS9nZW9fMTU2MS9tYXN0ZXIubTN1OCJ9LCJleHAiOjE1OTAzNjAxOTcsImlzcyI6Ind3dy52aWRpby5jb20ifQ.NhkrmRUFPJoOGcrjrQ4d0Fa-1OyBsGmlCktofofOU7oTXs-wjG2otVxNvVBHTH9FffijMDr7a7nljHmGkc0DEZ2JTbXGpq5BGNx4u3Cv6l8-wdvgqG4-QrOUYt7T-leg4iQPpX8TYhbrEGLD5yudGxwSwuYRoCMLCWwuB9DAKSi6FCiFtAwEolp_Erlu3_DcHRabsbj6zpU5DflCcjtXfbqx7sjS017dElpqF4gOeRA32oL30q8Xj0WHs92QPfqDtMEZbGATTylfe_XB4RKXzD0cmz-sqg3zwJl0y9v8fwT5cXFwG1J_M_GS4j9ovUFEQYO5IpSfk3XCjS_fSZxJNA
+https://etslive-2-vidio-com.akamaized.net/exp=1590375389~acl=/hls-p/ingest_geo_1561_*/*~hmac=1c46af87f718ef86f5195ab021025cf75cd99c1e18d3f445043bee83ddc6b4e4/hls-p/ingest_geo_1561_720p/index.m3u8
 #EXTINF:-1 group-title="INDONESIA",NET TV
-https://app-etslive-2.vidio.com/live/875/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjg3NSwicGxheWxpc3RfdXJsIjoiaHR0cHM6Ly9hcHAtZXRzbGl2ZS0yLnZpZGlvLmNvbS9saXZlLzg3NS9tYXN0ZXIubTN1OCJ9LCJleHAiOjE1OTAzNjA3NDgsImlzcyI6Ind3dy52aWRpby5jb20ifQ.CgghK1d-Y6BthDSna1ErgWzEjm0E3wNo3InchMwmJGtr8eSB5G374MHlt2qAIK0xdcGS9FV87ihmLZJhq0dr5eG48ijL_Ae7E99jUQx7YONfCmqWgSVoO4JVCHTkbPXoeCs94YU5Vm8dwKlY0WBja5YxNV0Xr3nGho6DOSWLGogBhQKz4aC3mnEsrmpJ-X6lnflGwIIBvvsikqMtHXxqKrrxbhMG8xCyMnuZpNHOIBCtKo3evnQuTPvF_U4g9R-JsdvCl5HG-BOvNSZOgtMRXQgAdqqla_CmNZAuy-GIKijnNTpZ2n0LpLrwaxMXJ7el-Fco4nyPGMl1z0QHkRdNyg&trace_id=1590359968011614910
+https://etslive-2-vidio-com.akamaized.net/exp=1590375523~acl=/hls-p/ingest_875_*/*~hmac=772ce32d85d7da6fdb86a286af0ef03c9304f3902dad79a4d2bc9a0a4853a64f/hls-p/ingest_875_720p/index.m3u8
 #EXTINF:-1 group-title="UNCLASSIFIED",group-title="LOKAL"JAKARTA GLOBE NEWS CHANNEL
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title="UNCLASSIFIED",group-title="LOKAL"TV Banten
